@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mektigboy/Crowdfunding-Smart-Contract/issues"
   },
-  "homepage": "https://github.com/mektigboy/Crowdfunding-Smart-Contract#readme"
+  "homepage": "https://github.com/mektigboy/Crowdfunding-Smart-Contract#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "solc": "^0.4.17",
+    "web3": "^1.7.3"
+  }
 }
