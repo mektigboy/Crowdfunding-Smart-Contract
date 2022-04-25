@@ -23,4 +23,5 @@ const deploy = async () => {
   //To prevent a hanging deployment.
   provider.engine.stop();
 };
+
 deploy();
